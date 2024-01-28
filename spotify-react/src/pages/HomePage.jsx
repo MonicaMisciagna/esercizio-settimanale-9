@@ -7,6 +7,6 @@ export default function HomePage() {
     <Container>
       <TopBar />
       <MainComp />
-    </Container>
+    </Container >
   );
 }

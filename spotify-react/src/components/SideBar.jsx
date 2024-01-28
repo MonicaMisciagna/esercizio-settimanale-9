@@ -41,7 +41,7 @@ const YourComponent = () => {
             <div className="nav-btn">
               <Button className="signup-btn" variant="light" type="button">Sign Up</Button>
               <Button className="login-btn" variant="dark" type="button">Login</Button>
-              <a href="#">Cookie Policy</a> | <a href="#"> Privacy</a>
+              <a href="#">Cookie Policy </a> | <a href="#"> Privacy</a>
             </div>
           </Navbar>
         </div>

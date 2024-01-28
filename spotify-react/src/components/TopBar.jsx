@@ -10,7 +10,7 @@ const MainComp = () => {
             <Col xs={9} lg={11} className="mainLinks d-none d-md-flex my-4">
               <a href="#">TRENDING</a>
               <a href="#">PODCAST</a>
-              <a href="#">MOODS AND GENRES</a>
+              <a href="#">MOODS AND GENRES </a>
               <a href="#">NEW RELEASES</a>
               <a href="#">DISCOVER</a>
             </Col>

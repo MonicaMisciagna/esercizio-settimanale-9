@@ -4,10 +4,10 @@ import { Container, Row, Col, ProgressBar } from 'react-bootstrap';
 
 const BottomPlayer = () => {
   return (
-    <Container fluid className="bg-container pt-1 fixed-bottom">
+    <Container fluid className="bg-container pt-1 fixed-bottom ">
       <Row>
         <Col lg={10} offset-lg={2}>
-          <Row className="playerControlsRow">
+          <Row className="playerControlsRow ">
             <Col
               className="col-6 col-md-4 col-lg-2 offset-3 offset-md-4 offset-lg-5 playerControls mt-1"
             >

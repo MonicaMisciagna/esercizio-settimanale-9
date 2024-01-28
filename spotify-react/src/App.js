@@ -16,6 +16,6 @@ export default function App() {
   
       </Routes>
       <BottomPlayer />
-    </BrowserRouter>
+    </BrowserRouter >
   );
 }
